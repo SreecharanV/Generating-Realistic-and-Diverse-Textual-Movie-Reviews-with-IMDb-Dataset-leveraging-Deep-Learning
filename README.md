@@ -1,5 +1,6 @@
 Generating Realistic and Diverse Textual Movie Reviews with IMDb Dataset leveraging Deep Learning
 Project Overview
+
 This project aims to develop and use sophisticated deep learning methods to produce realistic and varied human-sounding text movie reviews using the IMDb dataset. We have leveraged the transformer-based GPT-2 model due to its extensive abilities to understand and generate text language. Our goal was to create a model that could generate text reviews as similar as possible to human-written reviews in terms of variance, complexity, length, and naturalness.
 
 Introduction
