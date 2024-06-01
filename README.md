@@ -101,4 +101,4 @@ Refer to the project report for detailed references to the related work and meth
 
 ## Links
 
-- [IMDb Dataset]([https://www.imdb.com/interfaces/](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input))
+- [IMDb Dataset](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input)
