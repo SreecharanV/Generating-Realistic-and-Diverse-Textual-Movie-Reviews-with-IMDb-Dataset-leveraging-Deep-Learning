@@ -24,7 +24,6 @@ This project aims to develop and use sophisticated deep learning methods to prod
   - [Model Performance and Evaluation](#model-performance-and-evaluation)
   - [Manual Evaluation](#manual-evaluation)
 - [Conclusion](#conclusion)
-- [Contributions](#contributions)
 - [References](#references)
 - [Links](#links)
 
