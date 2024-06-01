@@ -68,15 +68,16 @@ The project involved extensive data preparation, model selection, training, and 
 ## Experimental Results
 
 ### Review Length Analysis
-
+<img src="Images/length.png" alt="Review Length Analysis" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 We analyzed the distribution of review lengths before and after preprocessing. The preprocessing steps significantly improved training efficiency.
 
 ### Sentiment Distribution in Data
-
+<img src="Images/sentiments.png" alt="Sentiment Distribution in Data" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 We observed a bifurcation in data due to sentiment, with positive reviews being shorter than negative ones. This skew in data was accounted for in the model training.
 
 ### Word Cloud Analysis
-
+<img src="Images/Wc1.png" alt="Word Cloud Analysis1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/2c2.png" alt="Word Cloud Analysis2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 Word clouds provided insights into the range of vocabulary and themes in the dataset and generated reviews.
 
 ### Training Metrics
@@ -88,8 +89,14 @@ The final training and validation losses indicated an efficient learning process
 We used BLEU and ROUGE scores, as well as human evaluations, to assess the quality of generated reviews. The model succeeded in producing structurally correct, contextually rich, and emotionally evocative reviews.
 
 ### Manual Evaluation
-
+<img src="Images/human.png" alt="Ai %" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 Human evaluations showcased the model's ability to generate diverse and realistic movie reviews.
+
+### Samples
+<img src="Images/Neg_review.png" alt="Negative review 1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Neg_review2.png" alt="Negative review 2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review.png" alt="Positive review 1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review1.png" alt="Positive review 2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 
 ## Conclusion
 
