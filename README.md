@@ -42,7 +42,7 @@ The project builds on the foundational techniques of text generation, especially
 We cleaned the text, performed tokenization, and, if needed, removed punctuation and stop words. Stemming or lemmatization was used to reduce vocabulary complexity while maintaining the model's understanding.
 
 ### Choosing Model Architecture
-
+<img src="Images/Gpt-2 Architecture.png" alt="GPT-2 Architecture" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 We selected GPT-2 for its self-attention mechanism, which allows for generating fluent and coherent sentences. The model's architecture enables it to generate human-like text sequences.
 
 ### Training Techniques
