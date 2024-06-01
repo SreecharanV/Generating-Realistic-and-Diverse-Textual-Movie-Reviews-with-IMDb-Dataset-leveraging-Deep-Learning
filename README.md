@@ -93,10 +93,10 @@ We used BLEU and ROUGE scores, as well as human evaluations, to assess the quali
 Human evaluations showcased the model's ability to generate diverse and realistic movie reviews.
 
 ### Samples
-<img src="Images/Neg_review.png" alt="Negative review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Neg_review3.png" alt="Negative review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
 <img src="Images/Neg_review2.png" alt="Negative review 2" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/Pos_review.png" alt="Positive review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/Pos_review1.png" alt="Positive review 2" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review4.png" alt="Positive review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review5.png" alt="Positive review 2" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
 
 ## Conclusion
 
