@@ -89,14 +89,14 @@ The final training and validation losses indicated an efficient learning process
 We used BLEU and ROUGE scores, as well as human evaluations, to assess the quality of generated reviews. The model succeeded in producing structurally correct, contextually rich, and emotionally evocative reviews.
 
 ### Manual Evaluation
-<img src="Images/human.png" alt="Ai %" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/human.png" alt="Ai %" style="width: 340px; display: block; margin-left: auto; margin-right: auto;">
 Human evaluations showcased the model's ability to generate diverse and realistic movie reviews.
 
 ### Samples
-<img src="Images/Neg_review.png" alt="Negative review 1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/Neg_review2.png" alt="Negative review 2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/Pos_review.png" alt="Positive review 1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/Pos_review1.png" alt="Positive review 2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Neg_review.png" alt="Negative review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Neg_review2.png" alt="Negative review 2" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review.png" alt="Positive review 1" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/Pos_review1.png" alt="Positive review 2" style="width: 1080px; display: block; margin-left: auto; margin-right: auto;">
 
 ## Conclusion
 
