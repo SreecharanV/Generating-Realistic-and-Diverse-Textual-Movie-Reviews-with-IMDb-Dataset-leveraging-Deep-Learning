@@ -77,7 +77,7 @@ We observed a bifurcation in data due to sentiment, with positive reviews being 
 
 ### Word Cloud Analysis
 <img src="Images/Wc1.png" alt="Word Cloud Analysis1" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
-<img src="Images/2c2.png" alt="Word Cloud Analysis2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
+<img src="Images/wc2.png" alt="Word Cloud Analysis2" style="width: 600px; display: block; margin-left: auto; margin-right: auto;">
 Word clouds provided insights into the range of vocabulary and themes in the dataset and generated reviews.
 
 ### Training Metrics
